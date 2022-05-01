@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Swapper", "Number Swapper.csproj", "{A6321E70-9AEE-422E-A002-DB8D4DABED09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6321E70-9AEE-422E-A002-DB8D4DABED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6321E70-9AEE-422E-A002-DB8D4DABED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6321E70-9AEE-422E-A002-DB8D4DABED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6321E70-9AEE-422E-A002-DB8D4DABED09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBBF76C0-B053-41A4-A42C-F439A9D80534}
+	EndGlobalSection
+EndGlobal
